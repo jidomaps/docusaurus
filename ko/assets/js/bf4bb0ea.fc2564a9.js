@@ -1,1 +1,0 @@
-(self.webpackChunkdocusaurus_2_website=self.webpackChunkdocusaurus_2_website||[]).push([[2160],{35212:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/ko/blog/tags","slug":"birth","name":"birth","count":1,"permalink":"/ko/blog/tags/birth"}')}}]);

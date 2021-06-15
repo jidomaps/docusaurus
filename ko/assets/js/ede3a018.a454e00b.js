@@ -1,1 +1,0 @@
-(self.webpackChunkdocusaurus_2_website=self.webpackChunkdocusaurus_2_website||[]).push([[5127],{33389:function(e,t,u){"use strict";u.r(t);var a=u(67294),l=u(6347),s=u(46598),c=u(31610);t.default=function(){var e=(0,c.default)();return a.createElement(l.Z,null,a.createElement("h2",null,"Global data"),a.createElement(s.Z,{src:e,collapseDepth:"3"}))}}}]);

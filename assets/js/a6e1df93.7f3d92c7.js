@@ -1,1 +1,0 @@
-(self.webpackChunkdocusaurus_2_website=self.webpackChunkdocusaurus_2_website||[]).push([[1503],{61321:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"i-18-n","name":"i18n","count":1,"permalink":"/blog/tags/i-18-n"}')}}]);

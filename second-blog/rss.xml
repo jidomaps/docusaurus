@@ -10,7 +10,7 @@
         <copyright>Copyright © 2021 Facebook, Inc.</copyright>
         <item>
             <title><![CDATA[Using twice the blog plugin]]></title>
-            <link>https://docusaurus.io/second-blog/2020/08/03/second-blog-intro</link>
+            <link>https://docusaurus.io/docusaurus/second-blog/2020/08/03/second-blog-intro</link>
             <guid>Using twice the blog plugin</guid>
             <pubDate>Mon, 03 Aug 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Did you know you can use multiple instances of the same plugin?]]></description>

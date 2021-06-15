@@ -1,1 +1,0 @@
-(self.webpackChunkdocusaurus_2_website=self.webpackChunkdocusaurus_2_website||[]).push([[5113],{28290:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"endi","name":"endi","count":1,"permalink":"/blog/tags/endi"}')}}]);

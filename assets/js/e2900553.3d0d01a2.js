@@ -1,0 +1,1 @@
+(self.webpackChunkdocusaurus_2_website=self.webpackChunkdocusaurus_2_website||[]).push([[8453],{27731:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/docusaurus/blog/tags","slug":"recap","name":"recap","count":2,"permalink":"/docusaurus/blog/tags/recap"}')}}]);
