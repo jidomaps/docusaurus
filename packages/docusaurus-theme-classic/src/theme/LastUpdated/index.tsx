@@ -81,7 +81,7 @@ export default function LastUpdated({
       </Translate>
       {process.env.NODE_ENV === 'development' && (
         <div>
-          <small> (Simulated during dev for better perf)</small>
+          <small> (Simulated during dev for better perf2)</small>
         </div>
       )}
     </>

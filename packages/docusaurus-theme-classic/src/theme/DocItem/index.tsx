@@ -92,13 +92,13 @@ function DocItem(props: Props): JSX.Element {
                   </div>
 
                   <div className={clsx('col', styles.lastUpdated)}>
-                    {(lastUpdatedAt || lastUpdatedBy) && (
+                    {/* {(lastUpdatedAt || lastUpdatedBy) && (
                       <LastUpdated
                         lastUpdatedAt={lastUpdatedAt}
                         formattedLastUpdatedAt={formattedLastUpdatedAt}
                         lastUpdatedBy={lastUpdatedBy}
                       />
-                    )}
+                    )} */}
                   </div>
                 </footer>
               )}

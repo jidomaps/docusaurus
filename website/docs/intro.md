@@ -1,11 +1,13 @@
 ---
-id: cli
 title: Jido Map API - DWG File Specification
+
+
 
 toc_footers:
   - <a href='https://www.jidomaps.com'>Jido Inc.</a>
 
-# search: true
+
+search: true
 
 code_clipboard: false
 ---
