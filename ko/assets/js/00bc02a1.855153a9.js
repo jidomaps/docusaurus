@@ -1,0 +1,1 @@
+(self.webpackChunkdocusaurus_2_website=self.webpackChunkdocusaurus_2_website||[]).push([[1705],{38608:function(e){"use strict";e.exports=JSON.parse('{"permalink":"/ko/second-blog","page":1,"postsPerPage":3,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

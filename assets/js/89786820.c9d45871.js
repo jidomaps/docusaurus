@@ -1,0 +1,1 @@
+(self.webpackChunkdocusaurus_2_website=self.webpackChunkdocusaurus_2_website||[]).push([[7699],{67682:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"adoption","name":"adoption","count":2,"permalink":"/blog/tags/adoption"}')}}]);

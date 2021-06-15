@@ -1,0 +1,1 @@
+(self.webpackChunkdocusaurus_2_website=self.webpackChunkdocusaurus_2_website||[]).push([[1874],{96992:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Using twice the blog plugin","permalink":"/fr/second-blog/2020/08/03/second-blog-intro"}]}')}}]);

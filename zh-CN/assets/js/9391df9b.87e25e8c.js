@@ -1,0 +1,1 @@
+(self.webpackChunkdocusaurus_2_website=self.webpackChunkdocusaurus_2_website||[]).push([[6770],{20853:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/zh-CN/blog/tags","slug":"tribute","name":"tribute","count":1,"permalink":"/zh-CN/blog/tags/tribute"}')}}]);
