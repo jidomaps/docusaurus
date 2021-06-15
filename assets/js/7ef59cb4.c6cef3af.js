@@ -1,1 +1,0 @@
-(self.webpackChunkdocusaurus_2_website=self.webpackChunkdocusaurus_2_website||[]).push([[1633],{88380:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/docusaurus/second-blog/tags","slug":"blog","name":"blog","count":1,"permalink":"/docusaurus/second-blog/tags/blog"}')}}]);
